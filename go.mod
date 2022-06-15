@@ -1,3 +1,5 @@
-module github.com/Onesn/hello/v2
+module github.com/Onesn/hello
 
 go 1.18
+
+retract v0.1.0
